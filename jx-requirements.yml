@@ -27,7 +27,7 @@ environments:
       production: false
   key: dev
   promotionStrategy: Manual
-  remoteCluster: true
+  remoteCluster: false
   repository: environment-bootv3-cheese
 helmfile: true
 ingress:
